@@ -1,0 +1,17 @@
+{
+    "name": "SpaceInvaders.Enemy",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2d046c91866cbda44a281f58f051f3d9",
+        "GUID:b0a020d78f964c347b6e6f1ca46a7dda"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
